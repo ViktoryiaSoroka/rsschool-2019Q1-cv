@@ -1,5 +1,7 @@
 # SUMMARY #
 
+![image](https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg)
+
 ## Viktoryia Soroka ##
 
 Junior developer
@@ -16,8 +18,9 @@ English: Pre-Intermediate (A2).
 ### Education ###
 
 - Belarusian National Technical University (2007-2013)
-- The Rolling Scopes: «JavaScript/Front-end» (
-February 2019 - now)  
+ [https://school.rollingscopes.com/](https://school.rollingscopes.com/)
+- The Rolling Scopes: «JavaScript/Front-end» (February 2019 - now)  
+ [https://www.codecademy.com/](https://www.codecademy.com/)
 
 ### Technical skills ###
 
@@ -28,5 +31,5 @@ February 2019 - now)
 
 1. work closely with other developers and professionals;
 1. organize and manage multiple priorities simultaneously;  
-1. quickly fit into any existing team of developers  
-the ability to work on your own with minimum supervision.
+1. quickly fit into any existing team of developers the ability  
+ to work on your own with minimum supervision.
