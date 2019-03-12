@@ -80,9 +80,7 @@ td {
 
 .link-education:hover {
     color: #800000;
-    /* Цвет ссылки при наведении на нее курсора мыши */
     text-decoration: underline;
-    /* Добавляем подчеркивание */
 }
 
 footer {
